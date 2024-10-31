@@ -1,8 +1,7 @@
 .checkboxDiv {
   display: flex;
   justify-content: space-between;
-  width: 50%;
-  padding-left: 25%;
+
 }
 
 .centerDiv {
@@ -51,4 +50,9 @@
 #table div {
   margin-right: 30px;
   margin-top: 10px;
+}
+
+.nbrBtn {
+  width: 80px;
+  margin-left: 20px;
 }
